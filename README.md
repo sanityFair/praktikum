@@ -6,8 +6,8 @@
 
 |  # Sprint   | Pull Request     |
 | :-------- | :------- |
-| I | [PR - Sprint 1]() | 
-| II | [PR - Sprint 2]() | 
+| 1 спринт (с 26.02 по 10.03) | [PR - Sprint 1]() | 
+| 2 спринт (с 11.03 по 24.03) | [PR - Sprint 2]() | 
 | III | [PR - Sprint 3]() | 
 | IV | [PR - Sprint 4]() | 
 | V | [PR - Sprint 5]() | 
