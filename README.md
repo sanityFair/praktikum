@@ -1,7 +1,7 @@
 
 # Яндекс практикум
 
-Курс профессиональной программы обучения мидл фронтенд-разработчика. 
+Курс профессиональной программы обучения мидл фронтенд-разработчика.  [Figma](https://www.figma.com/file/IwpjO4IdUYca2gTCO89hQ0/Chat_external_link-(Copy)?type=design&node-id=1-600&mode=design&t=ZrhM6YX70Q5OFtkP-0)
 
 |  # Sprint   | Pull Request     |
 | :-------- | :------- |
