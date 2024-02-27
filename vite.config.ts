@@ -2,5 +2,12 @@ import { defineConfig } from "vite";
 import handlebars from "@vituum/vite-plugin-handlebars";
 
 export default defineConfig({
-  plugins: [handlebars()],
+  build: {
+    rollupOptions: {
+      input: {
+        main: "src/main.ts",
+      },
+    },
+  },
+  // plugins: [handlebars()],
 });
